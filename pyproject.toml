@@ -1,0 +1,17 @@
+[project]
+name = "tsa-ps2"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "arch>=8.0.0",
+    "black>=25.12.0",
+    "jupyter>=1.1.1",
+    "matplotlib>=3.10.8",
+    "nbqa>=1.9.1",
+    "notebook>=7.5.0",
+    "numpy>=2.3.5",
+    "seaborn>=0.13.2",
+    "statsmodels>=0.14.6",
+]

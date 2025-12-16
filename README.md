@@ -58,8 +58,8 @@ if none of these options work, check the [installation guide](https://docs.astra
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
-cd tsa_ps2
+git clone git@github.com:liamti5/waseda-timeseriesanalysis-problemset2.git
+cd waseda-timeseriesanalysis-problemset2
 ```
 
 ### 2. Sync Dependencies

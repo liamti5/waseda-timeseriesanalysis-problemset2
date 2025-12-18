@@ -75,30 +75,13 @@ This will:
 - Install all dependencies with exact versions from `uv.lock`
 - Set up the project in development mode
 
-### 3. Activate the Virtual Environment
 
-```bash
-source .venv/bin/activate  # macOS/Linux
-```
-
-Or use `uv run` to run commands without activating:
-
-```bash
-uv run jupyter notebook
-```
-
-### 4. Launch Jupyter Notebook
+### 3. Launch Jupyter Notebook
 
 ```bash
 uv run jupyter notebook notebooks/PS2_liam-tessendorf.ipynb
 ```
 
-Or if you activated the environment:
-
-```bash
-jupyter notebook notebooks/PS2_liam-tessendorf.ipynb
-```
-
-### 5. View Only HTML file
+### 4. View Only HTML file
 There is also a HTML file provided, for easy view only of the problem set. 
 

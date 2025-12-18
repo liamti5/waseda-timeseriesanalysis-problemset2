@@ -99,3 +99,6 @@ Or if you activated the environment:
 jupyter notebook notebooks/PS2_liam-tessendorf.ipynb
 ```
 
+### 5. View Only HTML file
+There is also a HTML file provided, for easy view only of the problem set. 
+
